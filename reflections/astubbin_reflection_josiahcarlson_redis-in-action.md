@@ -12,7 +12,3 @@
 ## Reasons for Inactivity & Recovery
 * **Inactivity Reason:** Post-conference code publication gap following CVPR presentation wrap-up.
 * **Recovery Status:** **Recovered.** Revived via package updates for modern Python versions and PyTorch releases, driven by original author Sean Moran and automated bots.
-
-## Theme Commit Timeseries & Graph Analysis
-* **Graph Type:** Post-publication step-function timeseries.
-* **Theme Shift:** Transitioned from *Dependency updates / Documentation updates* to *Dependency updates / Automated bot contributions*. The graph shows a long dormant plateau followed by automated maintenance activity.

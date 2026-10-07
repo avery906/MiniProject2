@@ -12,7 +12,3 @@
 ## Reasons for Inactivity & Recovery
 * **Inactivity Reason:** The research prototype concluded, the associated publication was completed, and the repository was archived without ongoing maintenance.
 * **Recovery Status:** **No recovery.** The project remained inactive with only a single minor bug fix commit post-gap, reflecting a dead artifact status.
-
-## Theme Commit Timeseries & Graph Analysis
-* **Graph Type:** Stacked bar / scatter timeline mapping commit themes over time.
-* **Theme Shift:** Transitioned from initial *Bug fixes* during active development to *End of Project / Other* administrative updates post-archival. The scarcity of commits makes the timeseries sparse and sharply partitioned.

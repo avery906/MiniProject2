@@ -12,7 +12,3 @@
 ## Reasons for Inactivity & Recovery
 * **Inactivity Reason:** Stable academic release; core 3D texturing functionality was achieved with minimal subsequent bug reporting needed.
 * **Recovery Status:** **Recovered.** Revived by original maintainers and contributors addressing residual compiler/build compatibility issues and documentation updates.
-
-## Theme Commit Timeseries & Graph Analysis
-* **Graph Type:** Longitudinal categorical commit distribution graph.
-* **Theme Shift:** Shifted from early *Other / Dependency updates* to later *Documentation updates* and *Bug fixes*. The graph shows punctuated clusters of activity rather than a continuous trend line.

@@ -12,7 +12,3 @@
 ## Reasons for Inactivity & Recovery
 * **Inactivity Reason:** Interim release cycle break during framework update.
 * **Recovery Status:** **Recovered.** Rolled out version updates (v1.1.3) and expanded external source integrations driven by the primary author.
-
-## Theme Commit Timeseries & Graph Analysis
-* **Graph Type:** Version-release milestone timeline.
-* **Theme Shift:** Shifted from *Other / Bug fixes* to structured *Feature development / Bug fixes*. The timeline correlates directly with version tag releases.

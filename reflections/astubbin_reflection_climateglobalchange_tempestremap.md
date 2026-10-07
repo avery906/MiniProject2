@@ -12,7 +12,3 @@
 ## Reasons for Inactivity & Recovery
 * **Inactivity Reason:** Core algorithms reached maturity; infrequent updates required for specialized climate modeling tools.
 * **Recovery Status:** **Recovered.** Maintained by scientific software maintainers through modern build system configuration tweaks and dependency updates.
-
-## Theme Commit Timeseries & Graph Analysis
-* **Graph Type:** Sparse milestone-based timeseries.
-* **Theme Shift:** Shifted from *Feature development / Dependency updates* to ongoing *Other / Feature development*. The graph displays long horizontal stabilization bars punctuated by sharp maintenance spikes.
